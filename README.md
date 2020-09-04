@@ -1,6 +1,6 @@
-# structured-data-programming
+# data-structures-programming
 
-## Structured Data Programming course at FMI
+## Data Structures and Programming course at FMI
 
 | [First homework](https://github.com/Emoooo1261/structured-data-programming/tree/master/SDP-Homework1) 
 | [Second homework](https://github.com/Emoooo1261/structured-data-programming/tree/master/SDP-Homework2) 
